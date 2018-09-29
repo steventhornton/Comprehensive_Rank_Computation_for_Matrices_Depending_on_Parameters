@@ -1,0 +1,8 @@
+[submodule "ParametricMatrixTools"]
+	path = ParametricMatrixTools
+	url = git@github.com:steventhornton/ParametricMatrixTools.git
+	branch = master
+[submodule "corpus-of-parametric-linear-systems"]
+	path = corpus-of-parametric-linear-systems
+	url = git@github.com:steventhornton/corpus-of-parametric-linear-systems.git
+	branch = master
